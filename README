@@ -1,0 +1,12 @@
+Password Manager
+
+____________________
+
+This is a J2SE project developed using swings and Netbeans IDE
+
+Features:
+
+-Store your passwords in a organised way
+-Uses MD5 to encrypt
+
+
